@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\E-CommerceApp\bin\Debug\net6.0\E-CommerceApp.exe
+C:\Users\pc\Desktop\E-CommerceApp\bin\Debug\net6.0\E-CommerceApp.deps.json
+C:\Users\pc\Desktop\E-CommerceApp\bin\Debug\net6.0\E-CommerceApp.runtimeconfig.json
+C:\Users\pc\Desktop\E-CommerceApp\bin\Debug\net6.0\E-CommerceApp.dll
+C:\Users\pc\Desktop\E-CommerceApp\bin\Debug\net6.0\E-CommerceApp.pdb
+C:\Users\pc\Desktop\E-CommerceApp\obj\Debug\net6.0\E-CommerceApp.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\E-CommerceApp\obj\Debug\net6.0\E-CommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\E-CommerceApp\obj\Debug\net6.0\E-CommerceApp.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\E-CommerceApp\obj\Debug\net6.0\E-CommerceApp.AssemblyInfo.cs
+C:\Users\pc\Desktop\E-CommerceApp\obj\Debug\net6.0\E-CommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\E-CommerceApp\obj\Debug\net6.0\E-CommerceApp.dll
+C:\Users\pc\Desktop\E-CommerceApp\obj\Debug\net6.0\refint\E-CommerceApp.dll
+C:\Users\pc\Desktop\E-CommerceApp\obj\Debug\net6.0\E-CommerceApp.pdb
+C:\Users\pc\Desktop\E-CommerceApp\obj\Debug\net6.0\E-CommerceApp.genruntimeconfig.cache
+C:\Users\pc\Desktop\E-CommerceApp\obj\Debug\net6.0\ref\E-CommerceApp.dll
